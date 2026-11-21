@@ -29,4 +29,4 @@ Integração entre IA e robótica
 
 Aberto a conversas sobre IA, robótica, pesquisa e oportunidades. Fale comigo pelo LinkedIn ou por e-mail.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=default" alt="Estatísticas do GitHub" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arthurjf06&show_icons=true&hide_border=true&theme=default" alt="Estatísticas do GitHub" /> </p>
